@@ -4,7 +4,7 @@ public class Armstrong {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Scanner sc=new Scanner(System.in);
+		Scanner sc=new Scanner(System.in); //taking input from scanner
 		System.out.println("\n***Enter a Number***\n");
 		int num=sc.nextInt();
 		int sum=0,num1=num;
