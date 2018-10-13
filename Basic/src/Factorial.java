@@ -6,7 +6,7 @@ public class Factorial {
 		// TODO Auto-generated method stub
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter a Number");
-		int num=sc.nextInt();
+		int num=sc.nextInt();//Using scanner Function
 		int fact=1;
 			for(int i=num;i>0;i--)
 			{

@@ -4,7 +4,7 @@ public class Even_No {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Scanner sc=new Scanner(System.in);
+		Scanner sc=new Scanner(System.in);//Using scanner for input
 		System.out.println("Enter a no.");
 		int n=sc.nextInt();
 		for(int i=1;i<=n;i++)
